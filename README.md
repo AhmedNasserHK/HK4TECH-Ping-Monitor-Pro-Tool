@@ -35,7 +35,7 @@ is a graphical ping utility for monitoring multiple hosts. Numerous host monitor
 * Color coding allows you to instantly determine the status of each host. Green means up. Red means down. Orange means error.
 * Each host monitor dynamically resizes and scales with the applications window.
 * Options to configure the interval between each ping, the timeout, TTL, and message size.
-* Monitor TCP ports. vmPing will continuously connect to a given TCP port and will display whether the port is open or closed. Enter HOSTNAME:PORT for the hostname. Example - WebserverA:80
+* Monitor TCP ports. Tool will continuously connect to a given TCP port and will display whether the port is open or closed. Enter HOSTNAME:PORT for the hostname. Example - WebserverA:80
 * Option to log everything to a text file.
 * Option to log only status changes to a text file. A status change is when a host you are pinging goes down, or a down host comes back up.
 * Popup notifications to alert you of status changes.
