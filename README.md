@@ -1,14 +1,10 @@
-# HK4TECH-Ping-Monitor-Pro-Tool
-(HK4TECH Ping Monitor Pro Tool)
-is a graphical ping utility for monitoring multiple hosts. Numerous host monitors can be added and removed, and each monitor dynamically resizes with the application window. Color-coding allows you to tell at a glance the status of each host. In addition to standard ICMP pings, you can also perform a TCP 'port ping', where the application continuously connects to a specified port and displays whether or not the port is open. A fast trace route utility and a basic packet generator / stress tester is also included.
-
 <p align="center">
   <img src="/hk4tech-picture-viewer/resources/hk icon 2/picture_hk.png">
 </p>
-<h1 align="center">HK4TECH Picture Viewer</h1>
+<h1 align="center">HK4TECH Ping Monitor Pro Tool</h1>
 
 <p align="center">
-  <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">HK4TECH Picture Viewer</a> is a lightweight, versatile desktop image viewer for Windows.<br>The best replacement for the default Windows photo viewer.
+  <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">HK4TECH Ping Monitor Pro Tool</a> is a graphical ping utility for monitoring multiple hosts. Numerous host monitors can be added and removed, and each monitor dynamically resizes with the application window.
   <br><br>
   <a href="https://github.com/AhmedNasserHK/HK4TECH-Picture-Viewer/releases">
     <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/HK4TECH-Picture-Viewer?include_prereleases">
@@ -29,8 +25,9 @@ is a graphical ping utility for monitoring multiple hosts. Numerous host monitor
 </p>
 
 
-# HK4TECH-Picture-Viewer
-HK4TECH Picture Viewer is a lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer. Based On ModuleArt Projects
+# HK4TECH-Ping-Monitor-Pro-Tool
+(HK4TECH Ping Monitor Pro Tool)
+is a graphical ping utility for monitoring multiple hosts. Numerous host monitors can be added and removed, and each monitor dynamically resizes with the application window. Color-coding allows you to tell at a glance the status of each host. In addition to standard ICMP pings, you can also perform a TCP 'port ping', where the application continuously connects to a specified port and displays whether or not the port is open. A fast trace route utility and a basic packet generator / stress tester is also included.
 
 ## 😃 Features :
 
@@ -59,9 +56,3 @@ Help HKProjects!
 Give us a star ⭐
 Fork and Clone! Awesome
 Select existing issues or create a new issue and give us a PR with your bugfix or improvement after. We love it ❤
-
-
-Code contributors:
-
-FLeXyo - Open folder recursively feature
-Beelink - Everything else =)
