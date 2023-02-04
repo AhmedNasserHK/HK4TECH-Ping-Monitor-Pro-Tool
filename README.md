@@ -16,7 +16,7 @@
   <a href="https://hk4tech.com/home/HK4TECH-Ping-Monitor-Pro-Tool">
   </a>
   <br>
-  v1.0.1 (Stable) - Feb 03, 2023 - <a href="https://github.com/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool/releases/download/1.1.0/HK4TECH_Ping-Monitor-Pro-Tool.exe">Download (3.56 MB)</a>
+  v1.1.0 (Stable) - Feb 04, 2023 - <a href="https://github.com/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool/releases/download/1.1.0/HK4TECH_Ping-Monitor-Pro-Tool.exe">Download (683 KB)</a>
   <br>
     </a>
     <a href="https://hk4tech.com/home/HK4TECH-Ping-Monitor-Pro-Tool">
