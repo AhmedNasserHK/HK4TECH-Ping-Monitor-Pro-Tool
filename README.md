@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="/hk4tech-picture-viewer/resources/hk icon 2/picture_hk.png">
+  <img src="/HK4TECHPingMonitorProTool/Resources/hk icon 2/picture_hk.png.png">
 </p>
 <h1 align="center">HK4TECH Ping Monitor Pro Tool</h1>
 
 <p align="center">
-  <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">HK4TECH Ping Monitor Pro Tool</a> is a graphical ping utility for monitoring multiple hosts. Numerous host monitors can be added and removed, and each monitor dynamically resizes with the application window.
+  <a href="https://hk4tech.com/home/HK4TECH-Ping-Monitor-Pro-Tool">HK4TECH Ping Monitor Pro Tool</a> is a graphical ping utility for monitoring multiple hosts. Numerous host monitors can be added and removed, and each monitor dynamically resizes with the application window.
   <br><br>
-  <a href="https://github.com/AhmedNasserHK/HK4TECH-Picture-Viewer/releases">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/HK4TECH-Picture-Viewer?include_prereleases">
-    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/HK4TECH-Picture-Viewer/total">
+  <a href="https://github.com/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool?include_prereleases">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool/total">
   </a>
   <a href="https://hk4tech.com">
     <img alt="Module Art website" src="https://img.shields.io/badge/www-HKProjects-%2300BCD4">
   </a>
-  <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">
+  <a href="https://hk4tech.com/home/HK4TECH-Ping-Monitor-Pro-Tool">
   </a>
   <br>
-  v1.0.1 (Stable) - Feb 03, 2023 - <a href="https://github.com/AhmedNasserHK/HK4TECH-Picture-Viewer/releases/download/1.0.1.0/HK4TECHPictureViewer-Setup.exe">Download (3.56 MB)</a>
+  v1.0.1 (Stable) - Feb 03, 2023 - <a href="https://github.com/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool/releases/download/1.0.1.0/HK4TECHPictureViewer-Setup.exe">Download (3.56 MB)</a>
   <br>
     </a>
-    <a href="https://hk4tech.com/home/HK4TECH-Picture-Viewer">
-    <img src="/hk4tech-picture-viewer/resources/SS/Screenshot.png">
+    <a href="https://hk4tech.com/home/HK4TECH-Ping-Monitor-Pro-Tool">
+    <img src="/HK4TECHPingMonitorProTool/Resources/SS/Screenshot.png">
   </a>
 </p>
 
